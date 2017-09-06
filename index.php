@@ -10,7 +10,7 @@
 		and reassembles as array
 		then grabs the .../?club= id
 	*/
-	$pageURL = "clubpages.herokuapp.com/clubs";
+	$pageURL = "clubpages.herokuapp.com";
 	$str = file_get_contents('http://' . $pageURL . '/clubsinfo.json');
 	$json = json_decode($str, true);
 	$club = $_GET['club'];

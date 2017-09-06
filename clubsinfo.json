@@ -1,0 +1,80 @@
+{
+    "webdesign": {
+        "clubname": "The Web-Design Procrastination Club",
+        "abt1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, beatae minima iure nisi dignissimos unde in error quis magni quaerat consequuntur soluta aliquam sapiente nobis incidunt dolorem molestias odit. Ipsa, aliquid nam veniam voluptatem odit suscipit adipisci quia nostrum qui laboriosam sit rerum tempore? Sequi, nam, quo, consequatur, temporibus ullam accusamus quibusdam porro nostrum saepe sed dicta est fuga. Neque eaque mollitia deleniti quis doloribus repudiandae earum totam. Dolorem repellat soluta nostrum ipsum magni facere consequatur architecto neque. Eveniet, dolorem numquam similique facere culpa consectetur veritatis cupiditate voluptates!",
+        "abt2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, sed provident explicabo distinctio fugiat iste ipsum quas a natus atque magni quisquam ea assumenda ducimus obcaecati molestias praesentium! Quaerat, vitae, natus quod ad obcaecati non minus eos facilis temporibus veniam molestias sunt fugit porro.",
+        "contact": "Lorem ipsum sit dolor amet in sit principio de laboram horae 9:00am to 5:00pm Capitoline 121.",
+        "imgSQ" : "500x.png",
+        "imgRQ" : "1200x.png",
+        "admins": {
+            "a1": {
+                "name": "G. Julius Caesar",
+                "email": "jc6744@bard.edu",
+                "phone": "(212)321-4567"
+            },
+            "a2": {
+                "name": "Marc Antony",
+                "email": "ma1211@bard.edu",
+                "phone": "(241)833-3321"
+            },
+            "a3": {
+                "name": "Prince Hamlet",
+                "email": "ph1124@bard.edu",
+                "phone": "(481)283-3273"
+            }
+        },
+        "social": {
+        	"facebook": "",
+        	"twitter": "#twitter",
+        	"youtube": "",
+        	"blogger": "",
+        	"flickr": "",
+        	"instagram": "",
+        	"medium": "#medium",
+        	"reddit": "",
+        	"vimeo": "#vimeo",
+        	"wordpress": "#wordpress",
+        	"tumblr": "",
+        	"snapchatName" : "BardLazyWeb"	
+        }
+    },
+    "template": {
+    "clubname": "template",
+    "abt1": "template",
+    "abt2": "template",
+    "contact": "template",
+    "imgSQ" : "500x.png",
+    "imgRQ" : "1200x.png",
+    "admins": {
+        "a1": {
+            "name": "template",
+            "email": "template@bard.edu",
+            "phone": "(123)456-7890"
+        },
+        "a2": {
+            "name": "",
+            "email": "",
+            "phone": ""
+        },
+        "a3": {
+            "name": "",
+            "email": "",
+            "phone": ""
+        }
+    },
+    "social": {
+    	"facebook": "#facebook",
+    	"twitter": "#twitter",
+    	"youtube": "#youtube",
+    	"blogger": "#blogger",
+    	"flickr": "#flickr",
+    	"instagram": "#instagram",
+    	"medium": "#medium",
+    	"reddit": "#reddit",
+    	"vimeo": "#vimeo",
+    	"wordpress": "#wordpress",
+    	"tumblr": "#tumblr",
+    	"snapchatName" : "template"	
+    }
+}
+}

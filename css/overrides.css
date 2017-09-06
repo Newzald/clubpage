@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar, .navbar-default, .navbar-fixed-top{
+	background-color:#BE1D23;}
+.navbar-default .navbar-brand{
+	color: #FFFFFF;}

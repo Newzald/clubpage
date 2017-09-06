@@ -1,0 +1,99 @@
+@charset "UTF-8";
+/* CSS Document */
+.title{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	font-weight:600;
+	}
+#wrapper{
+	width:80%;}
+.info{
+	text-align:center;}
+.head_foot{
+	background-color: rgb(190, 29, 35);
+	}
+.navbar-default .navbar-brand {
+    color: #FFF;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #FFF;
+}
+.logo{
+	font-family: 'Kameron', serif;;
+	font-size:30px;
+	}
+.contact-name{
+	font-weight:800;}
+.about-info{
+	text-align:left;}
+.about-image-lg, .about-image-sm{
+	width:100%;
+	padding:10px 0;}
+#contacts{
+	padding:20px 0;
+}
+#social-icons{
+	display:inline-block;}
+.social-icon{
+	width:18%;
+	padding: 1%;}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #FFF;
+    background-color: transparent;
+}
+.footer {
+  	position: absolute;
+  	bottom: 0;
+  	width: 100%;
+  	min-height: 50px;
+	background-color:#CCCCCC;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px; 
+}
+.navbar-header{
+	display:inline-block;
+	width:100%;}
+.club-title{
+	font-family: 'Open Sans', sans-serif;
+	float:right;
+	max-width:82%;
+	}
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand{
+	margin:auto;}
+.popimg{
+	width:100%;}
+.mailing{
+	color:#000000;
+	text-decoration:underline;}
+@media (max-width: 768px){
+	.navbar{
+		height: 70px;}
+	.logo{
+		font-size:50px;
+		line-height:40px;}
+	body{
+		margin-top:20px;}
+	.social-icon{
+		width: 10%;}
+	}
+@media (min-width: 550px){
+	.about-image-lg{
+		display:block;}
+	.about-image-sm{
+		display:none;}
+	}
+@media (max-width: 550px){
+	.about-image-lg{
+		display:none;}
+	.about-image-sm{
+		display:block;}
+	.social-icon{
+		width: 18%;}
+	}
